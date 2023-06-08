@@ -8,12 +8,7 @@
 }
 
 body {
-    background-video: url("video.mp4");
-    background-repeat: no-repeat;
-    background-size: cover;
-	background-color: #16161a;
-	background: #000 url(video.gif) 
-    color: #fff;
+    background-color: #16161a;
     font-family: "Poppins", sans-serif;
 }
 
